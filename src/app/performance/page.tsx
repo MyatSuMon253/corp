@@ -1,9 +1,5 @@
-import React from 'react'
-
 const PerformancePage = () => {
-  return (
-    <div>PerformancePage</div>
-  )
-}
+  return <div>PerformancePage</div>;
+};
 
-export default PerformancePage
+export default PerformancePage;
